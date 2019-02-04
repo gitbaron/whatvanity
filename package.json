@@ -1,0 +1,27 @@
+{
+  "name": "whatvanity",
+  "version": "1.0.0",
+  "description": "A simple function to convert vanity phone numbers to numeric phone number.",
+  "main": "vanityToNum.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitbaron/whatvanity.git"
+  },
+  "keywords": [
+    "phone",
+    "number",
+    "vanity"
+  ],
+  "author": "Sharad Baranwal <Sharad@Baranwal.com>",
+  "license": "Unlicense",
+  "devDependencies": {
+    "expect": "^24.0.0",
+    "mocha": "^5.2.0"
+  }
+}
