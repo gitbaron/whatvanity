@@ -3,3 +3,7 @@ node_modules
 
 # macOS files
 .DS_Store
+
+# code coverage outputs
+coverage
+.nyc_output
