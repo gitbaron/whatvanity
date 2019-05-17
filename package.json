@@ -21,6 +21,6 @@
   "author": "Sharad Baranwal <Sharad@Baranwal.com>",
   "license": "Unlicense",
   "devDependencies": {
-    "mocha": "^5.2.0"
+    "mocha": "^6.1.4"
   }
 }
