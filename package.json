@@ -1,6 +1,6 @@
 {
   "name": "whatvanity",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple function to convert vanity phone numbers to numeric phone number.",
   "main": "vanityToNum.js",
   "directories": {
@@ -21,7 +21,6 @@
   "author": "Sharad Baranwal <Sharad@Baranwal.com>",
   "license": "Unlicense",
   "devDependencies": {
-    "expect": "^24.0.0",
     "mocha": "^5.2.0"
   }
 }
