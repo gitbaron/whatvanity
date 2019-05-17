@@ -4,6 +4,7 @@
 A very simple program to convert a vanity phone number to numeric value.
 
 It strips off any non alpha-numeric characters, and replaces the alphabets to numbers as below.
+
 | letter | replaced to number |
 | ------ | :-----------------:|
 | a,b,c,A,B,C | 2 |
