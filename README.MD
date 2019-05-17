@@ -40,5 +40,6 @@ It strips off any non alpha-numeric characters, and replaces the alphabets to nu
 
 ## Release History
 
+* 2.1.0 Added code coverage via codecov.io
 * 2.0.0 Updated logic, added Travis-CI
 * 1.0.0 Initial Release
