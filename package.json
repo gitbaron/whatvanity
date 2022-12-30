@@ -22,7 +22,7 @@
   "author": "Sharad Baranwal <Sharad@Baranwal.com>",
   "license": "Unlicense",
   "devDependencies": {
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "nyc": "^14.1.1"
   }
 }
